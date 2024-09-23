@@ -64,7 +64,7 @@ services:
         image: ghcr.io/appujet/lavamusic:main
         environment:
             # Your lavalink url
-            - LAVALINK_URL=lavalink:2333
+            - LAVALINK_URL=http://berta.pinkmovie.online
             # Your lavalink password
             - LAVALINK_AUTH=youshallnotpass
             # Your lavalink name
